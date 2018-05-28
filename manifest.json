@@ -4,7 +4,7 @@
      "version": "1.3",
 	"content_scripts": [
 	  {
-	    "matches": ["http://timecard.lirye.co.jp/*"],
+	    "matches": ["https://timecard.lirye.co.jp/*"],
 	    "js": ["jquery.js", "content_script.js"]
 	  }
 	]
